@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Guang XIONG -- Developer -- gx239@nyu.edu
+
 
 # THANKS
 
-    <name>
+    Jolie
 
 # TECHNOLOGY COLOPHON
-
+	Django, Python
     HTML5, CSS3
     jQuery, Modernizr
